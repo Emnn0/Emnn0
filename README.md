@@ -1,56 +1,80 @@
 <h1 align="center">Hi, I'm Muhammed Emin Berberoğlu 👋</h1>
 
 <h3 align="center">
-Software Engineering Student | Cybersecurity Enthusiast | AI & Secure Software Development
+Software Engineering Student | Cybersecurity Enthusiast | Secure Software Development
 </h3>
 
----
-
-## About Me
-
-I am a Software Engineering student with a strong interest in cybersecurity, secure software development, and artificial intelligence.
-
-My main focus is on understanding how modern systems work, how they can be attacked, and how they can be designed more securely. I am especially interested in web application security, network security, cloud security, penetration testing, and blue team fundamentals.
-
-I enjoy building practical projects, analyzing security concepts, improving my technical skills, and learning through hands-on experience such as labs, CTFs, and real-world case studies.
+<p align="center">
+I am focused on cybersecurity, software development, artificial intelligence, and building secure systems through hands-on learning.
+</p>
 
 ---
 
-## What I’m Interested In
+## 🧑‍💻 About Me
 
-- Cybersecurity and penetration testing  
-- Web application security  
-- Secure backend development  
-- Cloud and network security  
-- SOC / Blue Team concepts  
-- AI-assisted security tools  
-- Software engineering best practices  
+I am a Software Engineering student with a strong interest in cybersecurity and secure software development.
+
+I enjoy understanding how systems work, how vulnerabilities occur, and how software can be designed in a more secure and reliable way. My learning process is mainly based on practical projects, CTF challenges, security labs, and real-world case studies.
+
+I am especially interested in web application security, network security, cloud security, penetration testing, log analysis, and blue team fundamentals.
 
 ---
 
-## Currently Learning
+## 🎯 Areas of Interest
 
-I am currently improving myself in:
+- 🔐 Cybersecurity  
+- 🌐 Web Application Security  
+- 🛡️ Penetration Testing  
+- ☁️ Cloud & Network Security  
+- 📊 Log Analysis & Security Monitoring  
+- 🤖 Artificial Intelligence in Cybersecurity  
+- 💻 Secure Software Development  
 
-- Python and JavaScript  
-- Linux and networking  
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cs" />
+</p>
+
+### Backend, Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,postgres,docker,git,github" />
+</p>
+
+### Security & Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
 - Web security fundamentals  
 - API security  
+- Linux and networking  
 - SQL and database systems  
 - Security monitoring and log analysis  
-- Artificial intelligence in cybersecurity  
+- Cloud security concepts  
+- AI-assisted cybersecurity tools  
 
 ---
 
-## My Approach
+## 🚀 My Goal
 
-I believe that cybersecurity is not only about finding vulnerabilities, but also about understanding systems deeply and designing better, safer solutions.
+My goal is to combine software engineering knowledge with cybersecurity skills to build practical, secure, and useful technologies.
 
-My goal is to combine software engineering knowledge with cybersecurity skills to create practical, secure, and useful technologies.
+I believe that cybersecurity is not only about finding vulnerabilities, but also about understanding systems deeply and improving them with better design, stronger logic, and continuous learning.
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/muhammed-emin-berbero%C4%9Flu-88210b388/">
@@ -67,5 +91,5 @@ My goal is to combine software engineering knowledge with cybersecurity skills t
 ---
 
 <p align="center">
-  <i>Learning, building and improving every day.</i>
+  <i>Learning, building, breaking and securing systems step by step.</i>
 </p>
