@@ -1,114 +1,56 @@
 <h1 align="center">Hi, I'm Muhammed Emin Berberoğlu 👋</h1>
 
 <h3 align="center">
-Software Engineering Student | Cybersecurity Enthusiast | AI & Cloud Security Projects
+Software Engineering Student | Cybersecurity Enthusiast | AI & Secure Software Development
 </h3>
 
-<p align="center">
-I am a Software Engineering student focused on cybersecurity, secure software development, 
-web application security, cloud security, and AI-powered security tools.
-</p>
+---
+
+## About Me
+
+I am a Software Engineering student with a strong interest in cybersecurity, secure software development, and artificial intelligence.
+
+My main focus is on understanding how modern systems work, how they can be attacked, and how they can be designed more securely. I am especially interested in web application security, network security, cloud security, penetration testing, and blue team fundamentals.
+
+I enjoy building practical projects, analyzing security concepts, improving my technical skills, and learning through hands-on experience such as labs, CTFs, and real-world case studies.
 
 ---
 
-## 👨‍💻 About Me
+## What I’m Interested In
 
-- 🎓 Software Engineering student at Muş Alparslan University  
-- 🔐 Interested in **Cybersecurity, Penetration Testing, Web Security, Cloud Security and SOC/Blue Team topics**
-- 🤖 Building AI-assisted security tools and log analysis systems
-- 🧪 Practicing with CTFs, vulnerability labs and real-world security scenarios
-- 📚 Currently improving my skills in **Python, JavaScript, SQL, Linux, Networking and Security Automation**
-
----
-
-## 🚀 Featured Project
-
-### 🔥 Cassandra CloudSec Agent
-
-**AI-powered firewall log analysis platform**
-
-Cassandra CloudSec Agent is a cybersecurity-focused platform that analyzes WAF and server logs such as Cloudflare, nginx and Apache logs.  
-It helps detect suspicious traffic patterns, categorize threats with OWASP-based reasoning and generate professional PDF threat reports.
-
-**Key Features**
-
-- Cloudflare WAF / HTTP log analysis  
-- Apache, nginx and general server log support  
-- AI-assisted threat analysis  
-- OWASP-based threat categorization  
-- PDF security report generation  
-- Real-time analysis progress  
-- Docker-based multi-service architecture  
-
-**Tech Stack**
-
-`Python` · `FastAPI` · `Next.js` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker` · `Claude AI`
-
-🔗 Repository: [Cassandra-Cloudsec-Agent](https://github.com/Emnn0/Cassandra-Cloudsec-Agent)
-
----
-
-## 🛠️ Tech Stack
-
-### Programming & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cs" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql" />
-</p>
-
-### Cybersecurity & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github" />
-</p>
-
-### Frontend & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,figma" />
-</p>
-
----
-
-## 📌 Other Projects
-
-### İzin Talep Sistemi
-A simple full-stack leave request management system where employees can submit leave requests and admins can approve or reject them.
-
-**Tech Stack:** `Node.js` · `Express.js` · `HTML` · `JavaScript` · `Tailwind CSS`
-
-🔗 Repository: [izin-talep-sistemi](https://github.com/Emnn0/izin-talep-sistemi)
-
-### Personel Kayıt
-A C# based personnel registration project focused on basic data management and desktop application logic.
-
-🔗 Repository: [PersonelKayit](https://github.com/Emnn0/PersonelKayit)
-
----
-
-## 🎯 Current Focus
-
+- Cybersecurity and penetration testing  
 - Web application security  
 - Secure backend development  
-- AI-powered security automation  
-- Log analysis and threat detection  
-- SOC / Blue Team fundamentals  
-- Cloudflare, WAF and firewall traffic analysis  
+- Cloud and network security  
+- SOC / Blue Team concepts  
+- AI-assisted security tools  
+- Software engineering best practices  
 
 ---
 
-## 📊 GitHub Stats
+## Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emnn0&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emnn0&layout=compact&theme=tokyonight" height="165" />
-</p>
+I am currently improving myself in:
+
+- Python and JavaScript  
+- Linux and networking  
+- Web security fundamentals  
+- API security  
+- SQL and database systems  
+- Security monitoring and log analysis  
+- Artificial intelligence in cybersecurity  
 
 ---
 
-## 🌐 Connect With Me
+## My Approach
+
+I believe that cybersecurity is not only about finding vulnerabilities, but also about understanding systems deeply and designing better, safer solutions.
+
+My goal is to combine software engineering knowledge with cybersecurity skills to create practical, secure, and useful technologies.
+
+---
+
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/muhammed-emin-berbero%C4%9Flu-88210b388/">
@@ -125,5 +67,5 @@ A C# based personnel registration project focused on basic data management and d
 ---
 
 <p align="center">
-  <i>Building secure, practical and AI-assisted software solutions.</i>
+  <i>Learning, building and improving every day.</i>
 </p>
